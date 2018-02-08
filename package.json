@@ -1,0 +1,23 @@
+{
+  "name": "veille-node-4",
+  "version": "1.0.0",
+  "description": "exercice4\u001b[D ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "For",
+    "of",
+    "for",
+    "in",
+    "route",
+    "formulaire"
+  ],
+  "author": "Ricardo Castillo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
